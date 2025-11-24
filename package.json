@@ -1,0 +1,8 @@
+{
+  "name": "solstice-airdrop-estimator",
+  "version": "1.0.0",
+  "description": "Cyberpunk Solana-themed portal for estimating $SLX airdrop from Solstice Finance flares",
+  "scripts": {
+    "dev": "npx --yes serve -l 3000"
+  }
+}
